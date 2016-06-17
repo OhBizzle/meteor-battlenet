@@ -1,9 +1,9 @@
 Package.describe({
-  name: "afrazer:battlenet",
+  name: "auro:battlenet",
   summary: "OAuth authentication with battlenet",
   documentation: "README.md",
   version: "1.0.4",
-  git: "https://github.com/AlexFrazer/battlenet-auth.git"
+  git: "https://github.com/OhBizzle/battlenet-auth.git"
 });
 
 Package.onUse(function(api) {
